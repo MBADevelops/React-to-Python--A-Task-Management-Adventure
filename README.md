@@ -1,6 +1,8 @@
 ## Overview
 Welcome to the project React to Python: A Task-Management Adventure! This is a task management application that I developed using Python and React. It allows users to register, login, create tasks, and manage those tasks. The purpose of this application is to showcase the integration of a Flask backend (Python) with a React frontend.
 
+![Python Login GIF](pyreact-frontend/public/Python_login.gif)
+
 ## Installation
 
 Before starting the installation process, make sure you have Python and Node.js installed on your system.
