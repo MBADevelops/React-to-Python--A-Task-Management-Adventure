@@ -1,12 +1,12 @@
 ## Overview
-Welcome to the React to Python: A Task Management Adventure project! This is a task management application that I developed using Python and React. React to Python allows users to register, login, create tasks, and manage those tasks. This application is designed to showcase the integration of a Flask backend (Python) with a React frontend.
+Welcome to the project React to Python: A Task-Management Adventure! This is a task management application that I developed using Python and React. It allows users to register, login, create tasks, and manage those tasks. The purpose of this application is to showcase the integration of a Flask backend (Python) with a React frontend.
 
 ## Installation
 
 Before starting the installation process, make sure you have Python and Node.js installed on your system.
 
-1. Clone the repository: `git clone https://github.com/yourusername/taskmaster-python-react.git`
-2. Navigate into the cloned project directory: `cd taskmaster-python-react`
+1. Clone the repository: `git clone https://github.com/yourusername/React-to-Python--A-Task-Management-Adventure.git`
+2. Navigate into the cloned project directory: `cd React-to-Python--A-Task-Management-Adventure`
 3. Install Python dependencies:
    - If using venv: `python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt`
    - If using pipenv: `pipenv install`
